@@ -63,7 +63,7 @@ Of all Rural cities have least number of drivers and rides, with both close to 5
 
 ![City_Data](/analysis/City_Data.png)
 
-- Pyber has to expand its reach in rural areas; Pyber has a 4 times lessor reach in Rural City then that of urban areas.
-- The Average Ride Fare in the Rural City is the highest due to a scarcity of drivers. Pyber should effectively market its services to encourage drivers to pick up rides in rural areas.
+- PyBer has to expand its reach in rural areas; PyBer has a 4 times lessor reach in Rural City then that of urban areas.
+- The Average Ride Fare in the Rural City is the highest due to a scarcity of drivers. PyBer should effectively market its services to encourage drivers to pick up rides in rural areas.
 
 
