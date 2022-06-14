@@ -8,10 +8,10 @@ Python modules such as Matplotlib and NumPy are used to plot DataFrames in order
 
 ## Resources
 
-Data Sources: Data files used for analysis are [Ride Data](/Resources/ride_data.csv)
-and [City Data](/Resources/city_data.csv)
+### Data Sources: 
+Data files used for analysis are [Ride Data](/Resources/ride_data.csv) and [City Data](/Resources/city_data.csv)
 
-Software:
+### Software:
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-github/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-github)
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
@@ -31,8 +31,11 @@ In this study, there are just three types of cities: urban, suburban, and rural.
 - Urban City has lowest Average Fare per Ride with $24.53, i.e low cost per ride for Riders.
 - Urban City has lowest Average Fare per Driver with $16.57, i.e low earning per ride for Driver.
 
+![Urban_Rides](/analysis/Fig1.png)
+
 ### Suburban Cities
 Of all Suburban cities have low number drivers and rides, with 26% of the Total Rides and 16% of the total Drivers.
+![image](https://user-images.githubusercontent.com/104621377/173481755-46266804-12cd-409f-976e-097006fb827d.png)
 
 - Suburban City has average amount of earnings with $19,356.33
 - Suburban City has Average Fare per Ride with $30.97, i.e $30.97 average cost per ride for Riders.
@@ -62,7 +65,7 @@ Of all Rural cities have least number of drivers and rides, with both close to 5
 - In the period Jan-Apr, Urban City's all-time high earnings are close to $2500, whilst Rural City's earnings are only $500. There is a significant gap in earnings that needs to be addressed by advertising and attracting customers to use Pyber services with promotions and offers.
 
 ![City_Data](/analysis/City_Data.png)
-
+![Fare_City_Data](/analysis/Fig5.png)
 - PyBer has to expand its reach in rural areas; PyBer has a 4 times lessor reach in Rural City then that of urban areas.
 - The Average Ride Fare in the Rural City is the highest due to a scarcity of drivers. PyBer should effectively market its services to encourage drivers to pick up rides in rural areas.
 
